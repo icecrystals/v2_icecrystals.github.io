@@ -2,7 +2,7 @@
 
 <center> Academic Research </center>
 
-<a href="https://research.dayday.plus">[Visit W3Schools](https://research.dayday.plus)</a>
+<center> <font size=50><a href="https://research.dayday.plus">https://research.dayday.plus</a></center>
 
 ---
 
