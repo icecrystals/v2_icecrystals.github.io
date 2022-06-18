@@ -1,6 +1,6 @@
-<center> 生活是一场旅行，一次体验。我们注重的是过程，而不是结果。我渴望不断地探索新的事物，发现不同的自己。我从不会惧怕失败，因为绝对的失败也是完美生活的一部分。 </center>
+<center><font size=2> 生活是一场旅行，一次体验。我们注重的是过程，而不是结果。我渴望不断地探索新的事物，发现不同的自己。我从不会惧怕失败，因为绝对的失败也是完美生活的一部分。 </font> </center>
 
-<center> Life is like a jounery, and an experience. We foucs on the way, not the end. I eager to explore the unknown, and find the different myself. I never fear of failure, since the complete failure is also a part of the fanasitic life. </center>
+<center><font size=2> Life is like a jounery, and an experience. We foucs on the way, not the end. I eager to explore the unknown, and find the different myself. I never fear of failure, since the complete failure is also a part of the fanasitic life. </font> </center>
 
 ---
 
