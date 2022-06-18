@@ -10,7 +10,7 @@
 
 <center> Caligraphy Practice </center>
 
-<p style="text-align: center"><a href="https://caligraphy.dayday.plus">https://caligraphy.dayday.plus</a></p>
+<p style="text-align: center"><a href="https://life.dayday.plus/caligraphy">https://life.dayday.plus/caligraphy</a></p>
 
 ---
 
@@ -18,7 +18,7 @@
 
 <center> Writing Works </center>
 
-<p style="text-align: center"><a href="https://writing.dayday.plus">https://writing.dayday.plus</a></p>
+<p style="text-align: center"><a href="https://life.dayday.plus/writing">https://life.dayday.plus/writing</a></p>
 
 ---
 
@@ -26,4 +26,4 @@
 
 <center> Fitness Life </center>
 
-<p style="text-align: center"><a href="https://fitness.dayday.plus">https://fitness.dayday.plus</a></p>
+<p style="text-align: center"><a href="https://life.dayday.plus/fitness">https://life.dayday.plus/fitness</a></p>
