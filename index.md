@@ -1,6 +1,8 @@
-<center> <font size=72>[科学研究](https://research.dayday.plus) </font>  </center>
+<center> <font size=72>科学研究</font>  </center>
 
 <center> Academic Research </center>
+
+<a href="https://research.dayday.plus">[Visit W3Schools](https://research.dayday.plus)</a>
 
 ---
 
