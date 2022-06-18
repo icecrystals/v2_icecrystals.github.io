@@ -1,4 +1,4 @@
-<center> 科学研究 </center>
+<center> <font size=72>科学研究 </font>  </center>
 
 <center> 书法练习 </center>
 
