@@ -16,7 +16,7 @@
 
 <center> Technology Startup </center>
 
-<p style="text-align: center"><a href="https://startup.dayday.plus/">https://startup.dayday.plus/caligraphy</a></p>
+<p style="text-align: center"><a href="https://startup.dayday.plus/">https://startup.dayday.plus</a></p>
 
 ---
 
