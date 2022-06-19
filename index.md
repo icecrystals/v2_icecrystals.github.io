@@ -45,3 +45,7 @@
 <center> Fitness Life </center>
 
 <p style="text-align: center"><a href="https://life.dayday.plus/fitness">https://life.dayday.plus/fitness</a></p>
+
+---
+
+<center> For any inquiries, contact me via icecrystals@163.com</center>
