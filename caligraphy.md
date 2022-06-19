@@ -1,4 +1,4 @@
-<center> [Home](https://life.dayday.plus/) </center>
+<center> <a href="https://life.dayday.plus">Back to Homepage</a></center>
 
 ---
 ![周墨#03](/img_caligraphy/2022-06-18.jpg)
