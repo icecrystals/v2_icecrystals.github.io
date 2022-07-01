@@ -12,7 +12,7 @@
 
 <center> Academic Research </center>
 
-<p style="text-align: center"><a href="https://research.dayday.plus">https://research.dayday.plus</a></p>
+<p style="text-align: center"><a href="https://i.dayday.plus">https://i.dayday.plus</a></p>
 
 ---
 
